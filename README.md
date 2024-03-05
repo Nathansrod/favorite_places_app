@@ -1,16 +1,11 @@
 # favorite_places_app
 
-A new Flutter project.
+A favorite places application, built using Flutter.
 
-## Getting Started
+This app was created as part of the Flutter & Dart - The Complete Guide [2024 Edition] course, by Maximilian Schwarzmüller.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The main concepts used on this app were:
+- providers, using riverpod;
+- Google Maps API features (reverse geocoding, location picker, current location picker);
+- Native device features (camera);
+- Store data locally using SQLite.
